@@ -1,1 +1,1 @@
-console.log("Hello git");
+qconsole.log("Hello git");
